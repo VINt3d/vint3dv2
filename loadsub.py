@@ -27,4 +27,4 @@ async def sub(ctx, vintedurl):
 
         json.dump(configs,configedit,indent=4)
     await ctx.send("Webhook ajouté avec le lien !")
-bot.run(configs["token"])
+bot.run(process.env.TOKEN)
