@@ -2,18 +2,5 @@
     "token": "process.env.TOKEN",
     "prefix": "$",
     "status": "VINT3D_SPY_RESELL_LYFASHION",
-    "suburl": {
-        "https://discord.com/api/webhooks/957449067905024090/yq9JEGTn-ZE2qcUlChtRPmCFjQZ7X-7Zd5I2gho21Ma5J6LcTXunn2nHC-WCJHQ7tKIZ": {
-            "url": "https://www.vinted.fr/vetements?search_text=nike%20jogging&search_id=4889221902&size_id[]=207&size_id[]=208&size_id[]=209&price_from=2&currency=EUR&price_to=15&status[]=2&status[]=6",
-            "salon": "annonces_nike"
-        },
-        "https://discord.com/api/webhooks/957449237342347314/XpBlp8WRDGr8BSWfHDXTeLJNi-oH7H0GbUTmUyiCtagS9lEGIDIGH16aCFpJffGCxxcX": {
-            "url": "https://www.vinted.fr/vetements?search_text=ralph%20lauren&search_id=4889224142&size_id[]=207&size_id[]=208&size_id[]=209&price_from=2&currency=EUR&price_to=15&status[]=2&status[]=6&time=1648344074",
-            "salon": "annonces_ralphlauren"
-        },
-        "https://discord.com/api/webhooks/957449425419133008/2qH6TZpLgUf9bPNapOR0jRwfSfQM7ttMALGMVSsKqdVDPS8OaGmxwGOtwPfBNKx45d4R": {
-            "url": "https://www.vinted.fr/vetements?search_text=Dsquared2&search_id=4889224957&size_id[]=207&size_id[]=208&size_id[]=209&price_from=2&currency=EUR&price_to=15&status[]=2&status[]=6",
-            "salon": "annonces_dsquared2"
-        }
-    }
+    "suburl": {}
 }
